@@ -1,0 +1,25 @@
+.skillBlock {
+  max-width: 320px;
+  margin: 81px auto;
+  padding: 18px;
+  border-radius: 12px;
+  background: #8600a8;
+  color: #fff;
+  text-align: center;
+}
+
+.skillHeading {
+  font-size: 1.4rem;
+  margin-bottom: 12px;
+}
+
+.skillItems {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.skillItems li {
+  font-size: 1.1rem;
+  margin: 6px 0;
+}

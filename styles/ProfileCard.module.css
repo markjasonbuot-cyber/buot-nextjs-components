@@ -1,0 +1,35 @@
+.cardShell {
+  max-width: 320px;
+  margin: 30px auto;
+  padding: 20px;
+  border-radius: 15px;
+  background: #ffffff;
+  border: 2px solid #cc02ff;
+  box-shadow: 0px 8px 18px rgba(0, 0, 0, 0.25);
+  text-align: center;
+}
+
+.profileImage {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #cc02ff;
+}
+
+.nameText {
+  font-size: 1.6rem;
+  margin: 10px 0 0 0;
+}
+
+.ageText {
+  font-size: 1rem;
+  color: #444;
+  margin: 4px 0;
+}
+
+.bioText {
+  font-size: 1rem;
+  color: #666;
+  margin-top: 6px;
+}

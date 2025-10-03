@@ -1,0 +1,17 @@
+.headerBox {
+  text-align: center;
+  padding: 25px 0;
+  background: #8600a8;
+  color: #fff;
+}
+
+.mainTitle {
+  font-size: 2.2rem;
+  margin: 0;
+}
+
+.subTitle {
+  font-size: 1.3rem;    
+  margin-top: 5px;
+  font-weight: 400;
+}
